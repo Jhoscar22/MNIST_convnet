@@ -14,6 +14,7 @@ Alumnos:
     Oscar Valdés
     Santiago Gonzalez de Cosio Romero
     Leonardo Luna Flores
+    Ariadna Minerva Solis Naranjo
 """
 
 """
@@ -74,7 +75,7 @@ model.summary()
 """
 
 batch_size = 128
-epochs = 15
+epochs = 20
 
 model.compile(loss="categorical_crossentropy", optimizer="adam", metrics=["accuracy"])
 
