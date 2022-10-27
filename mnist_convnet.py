@@ -7,6 +7,15 @@ Description: A simple convnet that achieves ~99% test accuracy on MNIST.
 """
 
 """
+Semana Tec
+Profesor:
+    Rubén Álvarez
+Alumnos:
+    Oscar Valdés
+    Santiago Gonzalez de Cosio Romero
+"""
+
+"""
 ## Setup
 """
 
@@ -75,5 +84,5 @@ model.fit(x_train, y_train, batch_size=batch_size, epochs=epochs, validation_spl
 """
 
 score = model.evaluate(x_test, y_test, verbose=0)
-print("Test loss:", score[0])
+print("Error de la prueba:", score[0])
 print("Test accuracy:", score[1])
