@@ -7,6 +7,15 @@ Description: A simple convnet that achieves ~99% test accuracy on MNIST.
 """
 
 """
+Semana Tec
+Profesor:
+    Rubén Álvarez
+Alumnos:
+    Oscar Valdés
+"""
+
+
+"""
 ## Setup
 """
 
