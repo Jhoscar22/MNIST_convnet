@@ -14,7 +14,6 @@ Alumnos:
     Oscar Valdés
 """
 
-
 """
 ## Setup
 """
