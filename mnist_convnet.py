@@ -15,6 +15,7 @@ Alumnos:
     Santiago Gonzalez de Cosio Romero
     Leonardo Luna Flores
     Ariadna Minerva Solis Naranjo
+    Emiliano Martinez Aguilar
 """
 
 """
@@ -30,7 +31,7 @@ from tensorflow.keras import layers
 """
 
 # Model / data parameters
-num_classes = 10
+num_classes = 15
 input_shape = (28, 28, 1)
 
 # Load the data and split it between train and test sets
